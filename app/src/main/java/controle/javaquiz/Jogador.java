@@ -6,7 +6,7 @@ public class Jogador {
     private int pontuacao;
 
     public int getPontuacao() {
-        return pontuacao;
+        return pontuacao;// esse cometario é maneiro
     }
 
     public void setPontuacao(int pontuacao) {
