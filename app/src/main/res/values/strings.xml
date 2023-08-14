@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaQuiz</string>
+    <string name="quiz">Quiz</string>
+    <string name="rank">Ranking</string>
+</resources>
